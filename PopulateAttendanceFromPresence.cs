@@ -7,7 +7,7 @@ using Rock.Model;
 using System;
 using System.Linq;
 
-namespace com.bricksandmortarstudio.PresencePopulateAttendance
+namespace net.crosspointnow.PresencePopulateAttendance
 {
 
     [DisallowConcurrentExecution]
